@@ -28,14 +28,14 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>Python3</mark> and <mark>leadership</mark>
 
-# Education Section
-# educaton_title: Education
-
 # Projects Section
 # projects_title: Projects
 
 # Experience Section
 # experience_title: Experience
+
+# Education Section
+# educaton_title: Education
 
 # More Section
 # more_title: A Little More About Me
