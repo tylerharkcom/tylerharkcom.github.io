@@ -25,7 +25,7 @@ linkedin_username: tylerharkcom
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Tyler and I'm a senior studying computer science at the Univerity of Central Florida.
-
+  
   I am most skilled in: <mark>...</mark> and <mark>...</mark>
 
 # Projects Section
