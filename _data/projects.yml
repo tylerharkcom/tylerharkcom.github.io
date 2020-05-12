@@ -1,8 +1,8 @@
 - layout: top-middle
   name: NBAsim - NBA game simulation tool
   link: tylerharkcom.pythonanywhere.com
-  github: sproogen/resume-theme
+  github: tylerharkcom/NBAsim
   quote: >
-    All source code is hosted on GitHub at https://github.com/tylerharkcom/NBAsim
+    NBAsim is hosted with PythonAnywhere. All source code is hosted on GitHub at https://github.com/tylerharkcom/NBAsim
   description: | # this will include new lines to allow paragraphs
     I started this project as a hands-on way to learning <mark>Python</mark> and has since turned into a fully fledged web app. I have learned and applied many technologies such as <mark>HTML</mark>, <mark>CSS</mark>, <mark>mySQL</mark> and more.
