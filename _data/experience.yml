@@ -1,17 +1,22 @@
 - layout: left
-  company: Siemens
+  company: Siemens Energy
   city: Orlando, Florida
   job_title: Engineering Technician II (Intern)
   dates: July 2019 - Present
   quote: >
-   coming soon
+   Service Engineering
   description: | # this will include new lines to allow paragraphs
-    coming soon
+    - Responsible for data validation and analysis using <mark>Excel</mark>
+    - Designed user dashboards in <mark>Tableau</mark> to help engineers with product lifecycle management
+    - Optimized <mark>mySQL</mark> queries in <mark>PHP</mark> which led to a 95% decrease in application runtime
+    - Currently developing a data vizualization radar in <mark>JavaScript</mark> using the <mark>D3</mark> and <mark>Plotly</mark> libraries to aid in illustration of the company's decarbonization strategy
 - layout: left
-  company: Google
+  company: Google (Contracted via Vaco SF)
   job_title: Google Cloud Platform Student Innovator
   dates: July 2018 - December 2018
   quote: >
    coming soon
   description: | # this will include new lines to allow paragraphs
-    coming soon
+    - Collaborated with a team of 200 cross-disciplinary students from across the U.S. to promote the Google Cloud Platform at our universities
+    - Reported directly to management teams at Google to provide feedback and inform ongoing product development
+    - Organized campus events and documented best practice to contribute to the nationwide network of Student Innovators
