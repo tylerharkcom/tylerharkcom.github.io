@@ -24,7 +24,11 @@ linkedin_username: tylerharkcom
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Tyler and I'm a senior studying computer science with a minor in engineering leadership at the Univerity of Central Florida. I am passionate about technology and collaborating to develop solutions to large problems. 
+  Hello! My name is Tyler and I'm a senior studying computer science with a minor in engineering leadership at the Univerity of Central Florida. 
+  
+  I am passionate about technology, collaboration, and leadership, with a love for developing and delivering solutions.
+ 
+  Outside of the classroom I'm involved with the Engineering Leadership and Innovation Institute, UCF's engineering leadership development program, as well as my start-up venture, [Streats: Where Food Meets](https://www.gostreats.com), which aims to revolutionize the way we interact with food trucks. 
 
 # Projects Section
 # projects_title: Projects
