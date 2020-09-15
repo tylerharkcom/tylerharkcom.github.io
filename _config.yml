@@ -24,17 +24,7 @@ linkedin_username: tylerharkcom
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Tyler and I'm a senior studying computer science with a minor in engineering leadership at the Univerity of Central Florida.
-  
-  Career-wise, I'm primarily interested in program/project management (PM), software engineering, and data science. 
-  
-  On campus, I am a part of the Engineering Leadership and Innovation Institute (eli^2) within the College of Engineering and Computer Science. In eli^2, we focus on creativity, innovation, collaboration, and accountability and provide students the ability to develop soft skills that they don't learn in the classroom.
-  
-  Outside of class, I'm passionate about 
-  
-  I am skilled in: <mark>Python3</mark>, <mark>C</mark>, and <mark>Java</mark>
-  - Testing lists
-  - Testing lists 2
+  Hi, my name's Tyler and I'm a senior studying computer science with a minor in engineering leadership at the Univerity of Central Florida. I am passionate about technology and collaborating to develop solutions to large problems. 
 
 # Projects Section
 # projects_title: Projects
