@@ -3,6 +3,17 @@
   link: tylerharkcom.pythonanywhere.com
   github: tylerharkcom/NBAsim
   quote: >
-    NBAsim is hosted with PythonAnywhere. All source code is hosted on GitHub at https://github.com/tylerharkcom/NBAsim
+   Still in development! NBAsim is hosted with PythonAnywhere. All source code is hosted on GitHub at https://github.com/tylerharkcom/NBAsim
   description: | # this will include new lines to allow paragraphs
-    I started this project as a hands-on way to learning <mark>Python</mark> and has since turned into a fully fledged web app. I have learned and applied many technologies such as <mark>HTML</mark>, <mark>CSS</mark>, <mark>mySQL</mark> and more.
+    I started this project as a hands-on way to learning <mark>Python</mark> and has since turned into a fully fledged web app.
+    When COVID-19 halted the NBA season, NBASim encountered some bugs that I haven't gotten around to fixing yet.
+
+- layout: top-middle
+  name: Streats: Where Food Meets
+  link: https://www.gostreats.com
+  quote: >
+   Streats is an online marketplace that allows mobile food vendors to occupy property within the communities they serve.
+  description: | # this will include new lines to allow paragraphs
+    Streats began as an idea in UCF's Founders Academy, an extracurricular program tailored for engineering & computer science students looking to gain entrepreneurial skills.
+    My two co-founders and I went on to win the in-class venture competition, became semi-finalists for [UCF's Joust New Venture Competition](https://cel.ucf.edu/events/the-joust-new-venture-competition/), and pitched our business model to executives at the [Florida IT Pathways Symposium](https://flit-path.org/).
+    As of August 2020, we are hard at work developing the first generation of Streats, aiming for a version 1.0 launch in April 2021.
